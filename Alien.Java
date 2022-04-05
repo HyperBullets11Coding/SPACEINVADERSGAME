@@ -1,4 +1,4 @@
-***Alien drops Bombs***
+///Alien drops bombs
 package com.zetcode.sprite;
 
 import javax.swing.ImageIcon;
